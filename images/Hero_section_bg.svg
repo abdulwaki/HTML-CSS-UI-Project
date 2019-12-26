@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1482" height="381" viewBox="0 0 1482 381">
+    <g fill="none" fill-rule="nonzero">
+        <g opacity=".195" transform="translate(0 210)">
+            <circle cx="132.5" cy="34.5" r="6.5" fill="#F279B0"/>
+            <circle cx="1475.5" cy="163.5" r="6.5" fill="#FF0303"/>
+            <circle cx="741" cy="58" r="6" fill="#F279B0"/>
+            <ellipse cx="1140.5" cy="133" fill="#F279B0" rx="7.5" ry="8"/>
+            <circle cx="509" cy="170" r="1" fill="#00D0FF"/>
+            <circle cx="1068.5" cy="2.5" r="2.5" fill="#2DC8FF"/>
+            <circle cx="855.5" cy="79.5" r="3.5" fill="#05006C"/>
+            <ellipse cx="1297" cy="93.5" stroke="#9942D1" stroke-width="4" rx="16" ry="16.5"/>
+            <ellipse cx="663.5" cy="136" stroke="#9942D1" stroke-width="3" rx="11.5" ry="12"/>
+            <ellipse cx="388" cy="48.5" fill="#2DC8FF" rx="11" ry="11.5"/>
+            <circle cx="193.5" cy="133.5" r="9.5" fill="#9942D1"/>
+            <ellipse cx="12" cy="87.5" fill="#FCAD18" rx="8" ry="8.5"/>
+            <circle cx="514.5" cy="125.5" r="6.5" fill="#F279B0"/>
+            <ellipse cx="958" cy="57.5" fill="#FCAD18" rx="8" ry="8.5"/>
+            <circle cx="242.5" cy="89.5" r="6.5" fill="#05006C"/>
+            <circle cx="1192.5" cy="37.5" r="6.5" fill="#05006C"/>
+            <circle cx="1446.5" cy="20.5" r="9.5" fill="#FCAD18"/>
+            <circle cx="3.5" cy="5.5" r="3.5" fill="#9942D1"/>
+            <circle cx="222" cy="47" r="1" fill="#00D0FF"/>
+        </g>
+        <g opacity=".084" transform="matrix(-1 0 0 1 1871 0)">
+            <circle cx="1863" cy="201" r="8" fill="#FF0303"/>
+            <circle cx="909.5" cy="71.5" r="7.5" fill="#F279B0"/>
+            <ellipse cx="1400" cy="163" fill="#F279B0" rx="9" ry="10"/>
+            <circle cx="625" cy="209" r="1" fill="#00D0FF"/>
+            <circle cx="1312" cy="3" r="3" fill="#2DC8FF"/>
+            <circle cx="1050.5" cy="97.5" r="4.5" fill="#05006C"/>
+            <ellipse cx="1592.5" cy="114.5" stroke="#9942D1" stroke-width="4" rx="19.5" ry="20.5"/>
+            <ellipse cx="815" cy="167.5" stroke="#9942D1" stroke-width="3" rx="14" ry="14.5"/>
+            <ellipse cx="476.5" cy="60" fill="#2DC8FF" rx="13.5" ry="14"/>
+            <circle cx="632" cy="154" r="8" fill="#F279B0"/>
+            <ellipse cx="1176" cy="70.5" fill="#FCAD18" rx="10" ry="10.5"/>
+            <circle cx="1464" cy="46" r="8" fill="#05006C"/>
+            <circle cx="1775.5" cy="25.5" r="11.5" fill="#FCAD18"/>
+        </g>
+    </g>
+</svg>
